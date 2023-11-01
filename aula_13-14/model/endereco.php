@@ -9,6 +9,7 @@
         private $cep;
         private $numero;
 
-        public function get
+        public function getLograouro() {
+            return $this->logradouro;
 
     }
